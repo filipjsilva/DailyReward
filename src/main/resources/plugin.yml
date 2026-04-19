@@ -1,0 +1,7 @@
+name: DailyReward
+version: 1.0
+main: br.com.flp.dailyreward.DailyRewardPlugin
+api-version: 1.21
+commands:
+  daily:
+    description: Recebe recompensa diária
